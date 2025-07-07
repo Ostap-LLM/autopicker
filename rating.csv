@@ -1,0 +1,1029 @@
+model_r,segment
+Volkswagen Passat,D
+Volkswagen Golf,C
+Skoda Octavia,C
+Renault Megane,C
+Daewoo Lanos,B
+Ford Focus,C
+Renault Scenic,MPV
+Opel Astra,C
+Skoda Fabia,B
+Audi A4,D
+Opel Zafira,MPV
+Volkswagen Touran,MPV
+Audi A6,E
+BMW 3 Series,D
+BMW 5 Series,E
+BMW X5,SUV
+Mercedes-Benz E-Class,E
+Chevrolet Aveo,B
+Volkswagen Jetta,C
+Mazda 6,D
+Hyundai Tucson,SUV
+Toyota Camry,E
+Hyundai Sonata,D
+Ford Fusion,D
+Volkswagen Touareg,SUV
+Volkswagen Tiguan,SUV
+Mitsubishi Outlander,SUV
+Mazda 3,C
+Toyota RAV4,SUV
+Hyundai Santa Fe,SUV
+Nissan Qashqai,SUV
+Toyota Avensis,D
+Nissan Rogue,SUV
+Renault Kangoo,LCV
+Mitsubishi Lancer,C
+Skoda Superb,D
+Mercedes-Benz Vito,BUS
+KIA Sportage,SUV
+Ford Fiesta,B
+Volkswagen Caddy,LCV
+Mercedes-Benz C-Class,D
+Opel Vectra,D
+Ford C-Max,MPV
+Nissan Leaf,C
+Volkswagen Polo,B
+Ford Mondeo,D
+Chevrolet Lacetti,C
+Dacia Logan,B
+Honda CR-V,SUV
+KIA Sorento,SUV
+Honda Accord,D
+Volkswagen Transporter,BUS
+Audi Q7,SUV
+ВАЗ / Lada 21099,B
+Renault Laguna,D
+Toyota Corolla,C
+ВАЗ / Lada 2110,B
+Mazda CX-5,SUV
+Hyundai Accent,B
+Audi Q5,SUV
+KIA Ceed,C
+Hyundai Elantra,C
+Nissan X-Trail,SUV
+Mercedes-Benz A-Class,B
+Volvo V50,C
+Ford Escape,SUV
+Mercedes-Benz M-Class,SUV
+Peugeot 308,C
+Renault Trafic,BUS
+BMW X3,SUV
+Citroen C4 Picasso,MPV
+ЗАЗ 1103 Славута,B
+Opel Vivaro,BUS
+Dodge Journey,SUV
+Subaru Forester,SUV
+Honda Civic,C
+Audi A3,C
+Jeep Compass,SUV
+ВАЗ / Lada 2107,B
+Toyota Land Cruiser Prado,SUV
+Opel Insignia,D
+Jeep Cherokee,SUV
+KIA Optima,D
+Dacia Sandero,B
+Toyota Land Cruiser,SUV
+Lexus RX,SUV
+Mercedes-Benz B-Class,MPV
+Peugeot 307,C
+Peugeot 3008,MPV
+ВАЗ / Lada 2115,B
+Renault Clio,B
+Opel Meriva,MPV
+Mercedes-Benz Sprinter,BUS
+Hyundai i30,C
+Volkswagen CC,D
+Renault Logan,B
+Daewoo Matiz,A
+Citroen Berlingo,LCV
+Fiat Doblo,LCV
+Mercedes-Benz S-Class,F
+Volkswagen Golf Plus,MPV
+Nissan Juke,SUV
+ВАЗ / Lada 2111,B
+Citroen C4,C
+Mitsubishi Pajero,SUV
+Nissan Note,B
+Peugeot 5008,MPV
+Jeep Grand Cherokee,SUV
+Hyundai Getz,B
+Opel Corsa,B
+Mazda 5,MPV
+ВАЗ / Lada 2109,B
+Mini Cooper,B
+KIA Rio,B
+Chevrolet Captiva,SUV
+Volkswagen Sharan,MPV
+Subaru Outback,SUV
+Volvo Xc90,SUV
+Chevrolet Cruze,C
+KIA Cerato,C
+Peugeot 207,B
+Jeep Renegade,SUV
+Volkswagen Bora,C
+Smart Fortwo,A
+Suzuki Grand Vitara,SUV
+ВАЗ / Lada 2170,B
+Peugeot Partner пасс.,LCV
+Toyota Auris,C
+Nissan Almera,C
+Peugeot 407,D
+Toyota Yaris,B
+Toyota Prius,C
+Jeep Patriot,SUV
+Ford Kuga,SUV
+ВАЗ / Lada 2121,SUV
+BMW 1 Series,C
+Daewoo Nexia,B
+ВАЗ / Lada 2112,B
+Nissan Qashqai+2,SUV
+Mazda CX-7,SUV
+Tesla Model 3,D
+Chery Amulet,C
+Citroen C5,D
+Ford Edge,SUV
+Porsche Cayenne,SUV
+Dacia Duster,SUV
+Renault Espace,MPV
+BMW X1,SUV
+Nissan Micra,B
+Renault Koleos,SUV
+Toyota Corolla Verso,MPV
+Peugeot 206,B
+ЗАЗ 1102 Таврия,B
+Chevrolet Nubira,C
+Seat Ibiza,B
+Renault Duster,SUV
+Mitsubishi Colt,B
+Land Rover Range Rover,SUV
+BMW 7 Series,F
+ВАЗ / Lada 1118,B
+ВАЗ / Lada 2104,B
+Subaru Legacy,D
+Mercedes-Benz GLE-Class,SUV
+Seat Altea,MPV
+Volkswagen ID.4,SUV
+BMW X6,SUV
+Toyota Highlander,SUV
+Mercedes-Benz GL-Class,SUV
+ВАЗ / Lada 2114,B
+Volvo Xc60,SUV
+Opel Combo,LCV
+Ford Transit,BUS
+Skoda Roomster,MPV
+Citroen C3,B
+KIA Soul,SUV
+Ford S-Max,MPV
+Land Rover Freelander,SUV
+Seat Leon,C
+Renault Sandero,B
+Nissan Tiida,C
+Peugeot 508,D
+Skoda Rapid,C
+Renault Zoe,B
+Lexus ES,E
+Nissan Primera,D
+Nissan Murano,SUV
+Ford Galaxy,MPV
+Audi A5,D
+Lexus IS,D
+Suzuki Sx4,SUV
+Geely MR,B
+Lexus LX,SUV
+Chevrolet Niva,SUV
+Chrysler 200,D
+Infiniti Q,D
+Tesla Model S,E
+Mitsubishi Pajero Sport,SUV
+Audi A8,F
+Chery Tiggo,SUV
+Fiat Punto,B
+Chevrolet Volt,C
+Mitsubishi Grandis,MPV
+Lexus NX,SUV
+KIA Carens,MPV
+Volvo S60,D
+Subaru Impreza,C
+Peugeot 301,B
+Land Rover Range Rover Sport,SUV
+Volkswagen Beetle,B
+Opel Antara,SUV
+Nissan Pathfinder,SUV
+KIA Magentis,D
+Dodge Dart,C
+Audi Q3,SUV
+Infiniti FX,SUV
+Fiat Scudo,BUS
+Peugeot Expert,BUS
+Honda Jazz,B
+Ford Explorer,SUV
+Skoda Kodiaq,SUV
+Lexus GX,SUV
+Renault Kadjar,SUV
+BMW 4 Series,D
+Toyota C-Hr,SUV
+Seat Alhambra,MPV
+Acura MDX,SUV
+Nissan Altima,D
+Volvo V70,E
+Chevrolet Epica,D
+Tesla Model Y,SUV
+KIA Forte,C
+Renault Modus,MPV
+Honda Hr-V,SUV
+Mitsubishi L 200,T
+Citroen Jumpy,BUS
+Dodge Caliber,C
+Renault Grand Scenic,MPV
+Chery Qq,A
+Land Rover Range Rover Evoque,SUV
+Ssangyong Rexton,SUV
+Citroen Xsara Picasso,MPV
+Mitsubishi Asx,SUV
+Hyundai Kona,SUV
+Honda M-Nv,SUV
+Mazda CX-9,SUV
+Renault Master,BUS
+BMW i3,B
+Mercedes-Benz GLS-Class,SUV
+Ford Transit Connect,LCV
+Renault Fluence,C
+Geely Ck,B
+Audi A6 Allroad,E
+Suzuki Swift,B
+ВАЗ / Lada 1119,B
+Volkswagen Multivan,BUS
+Audi A7,F
+Chevrolet Bolt Ev,C
+Nissan Rogue Sport,SUV
+Mercedes-Benz GLC-Class,SUV
+Alfa Romeo 159,D
+Mercedes-Benz G-Class,SUV
+Mazda 2,B
+Hyundai I10,A
+Hyundai Matrix,MPV
+ГАЗ 3110,D
+Ford Mustang,W
+Ford Ecosport,SUV
+Nissan Navara,T
+Mitsubishi L 200,T
+Ford F-150,T
+Lexus GS,E
+Volvo S40,C
+Hyundai I20,B
+Nissan Sentra,C
+Volkswagen Caravelle,BUS
+Fiat 500,A
+Opel Signum,C
+Land Rover Discovery,SUV
+Peugeot 107,A
+KIA Picanto,A
+Citroen C-Crosser,SUV
+Chevrolet Equinox,SUV
+ЗАЗ FORZA,B
+Volkswagen Atlas,SUV
+Mitsubishi Outlander Sport,SUV
+Peugeot 807,MPV
+Toyota Venza,SUV
+Renault Clio Symbol,B
+Peugeot 208,B
+Peugeot 4007,SUV
+Mitsubishi Space Star,MPV
+Volkswagen Crafter,BUS
+Ssangyong Kyron,SUV
+Audi Q8,SUV
+ВАЗ / Lada 2113,B
+Nissan Versa,C
+Geely Jl7162,C
+KIA Carnival,MPV
+Suzuki Vitara,SUV
+Toyota Verso,MPV
+Nissan Maxima,E
+Ssangyong Korando,SUV
+Geely Emgrand 7,D
+Infiniti QX60,SUV
+Volvo V40,C
+Dacia Lodgy,LCV
+Opel Omega,E
+ВАЗ / Lada 2172,B
+Mercedes-Benz CLA-Class,C
+Skoda Yeti,SUV
+Seat Toledo,C
+Nissan Primastar,BUS
+Hyundai Terracan,SUV
+Toyota Avalon,E
+Nissan Teana,E
+Citroen C8,MPV
+Peugeot 2008,SUV
+Citroen C3 Picasso,MPV
+Chevrolet Tacuma,MPV
+Porsche Macan,SUV
+ВАЗ / Lada 2171,B
+Lincoln Mkz,E
+Volvo Xc70,SUV
+Honda Pilot,SUV
+Toyota Aygo,A
+Citroen C1,A
+Volvo V60,D
+Geely MK,C
+Mercedes-Benz CLK-Class,W
+Mercedes-Benz CLS-Class,E
+Citroen C-Elysee,B
+Chery Kimo,B
+Tesla Model X,SUV
+ВАЗ / Lada 1117,B
+Audi e-tron,SUV
+Mazda CX-3,SUV
+Infiniti QX50,SUV
+Ford Tourneo,BUS
+Chevrolet Trax,SUV
+Mitsubishi Galant,D
+Chevrolet Malibu,D
+Hyundai H1,BUS
+Chevrolet Orlando,MPV
+Богдан 2110,B
+Nissan Navara,SUV
+BMW X7,SUV
+Mercedes-Benz GLK-Class,SUV
+Volvo S80,E
+Dodge Challenger,W
+Volkswagen LT,BUS
+Seat Cordoba,B
+Mercedes-Benz GLA-Class,SUV
+Acura RDX,SUV
+Toyota Sequoia,SUV
+Lexus LS,F
+Mitsubishi Carisma,D
+Fiat Panda,A
+BMW X4,SUV
+Subaru Tribeca,SUV
+Smart Forfour,A
+Citroen C4 Cactus,SUV
+Chevrolet Evanda,D
+Renault Captur,SUV
+Ravon R2,A
+Volkswagen Amarok,T
+Toyota Tundra,T
+Lexus CT 200H,C
+Infiniti G,D
+Fiat Stilo,C
+Land Rover Discovery Sport,SUV
+Chevrolet Spark,A
+Fiat Fiorino,LCV
+Chrysler Gr.Voyager,MPV
+Peugeot 607,E
+Jeep Wrangler,SUV
+Nissan Titan,T
+Jaguar Xf,E
+Chrysler 300,E
+Fiat Linea,C
+Volkswagen Fox,A
+Buick Encore,SUV
+Chevrolet Colorado,T
+Dodge Durango,SUV
+Porsche Panamera,F
+BMW 6 Series,E
+Lincoln MKC,SUV
+Nissan Kicks,SUV
+Chrysler Voyager,MPV
+Hyundai I40,D
+Hyundai Grandeur,MPV
+Fiat 500X,SUV
+Daewoo Nubira,C
+Ssangyong Actyon,SUV
+Mini One,A
+Mazda CX-30,SUV
+Fiat Ducato,BUS
+Fiat Grande Punto,B
+Chery Jaggi,B
+KIA Niro,SUV
+Fiat 500L,MPV
+Chery Eastar,D
+Infiniti QX70,SUV
+Volkswagen Phaeton,F
+Fiat Freemont,SUV
+Dodge Grand Caravan,MPV
+Acura TLX,D
+Jaguar F-Pace,SUV
+Nissan Patrol,SUV
+Honda Fr-V,MPV
+Fiat 500e,A
+Honda Ridgeline,T
+Suzuki Jimny,SUV
+Audi A2,B
+Mercedes-Benz R-Class,MPV
+Renault Thalia,B
+Opel Movano,BUS
+Toyota Sienna,MPV
+Mazda Premacy,MPV
+Honda Insight,C
+Renault Dokker,LCV
+Jaguar X-Type,D
+Opel Frontera,SUV
+Daihatsu Sirion,B
+SAAB 9-3,C
+Hyundai Ioniq,C
+Chrysler Pt Cruiser,C
+Geely MK Cross,SUV
+Chery Elara,C
+Fiat Croma,D
+Renault Talisman,D
+Volkswagen E-Lavida,C
+ВАЗ / Lada 2106,B
+Hyundai Veloster,C
+Audi A4 Allroad,D
+Infiniti QX,SUV
+Geely Fe-1,D
+Subaru Legacy Outback,SUV
+Audi TT,W
+Toyota Fj Cruiser,SUV
+Mitsubishi Eclipse Cross,SUV
+Chevrolet Kalos,B
+Subaru Xv,SUV
+Alfa Romeo 147,C
+Volvo C30,B
+Subaru Crosstrek,SUV
+Acura Ilx,D
+Hyundai Coupe,W
+Renault Twingo,A
+BMW 2 Series,C
+Renault Symbol,B
+Hyundai Avante,C
+Honda Clarity,D
+BMW X5 M,SUV
+Lincoln Mkx,SUV
+Citroen Nemo,LCV
+FORD F-250,T
+Mercedes-Benz Citan,LCV
+Citroen Grand C4 Picasso,MPV
+Chery Tiggo 2,SUV
+Buick Regal,D
+Ford Grand C-Max,MPV
+Chevrolet Camaro,W
+Chevrolet Sonic,B
+Suzuki Liana,C
+Citroen Jumper,BUS
+Honda Crosstour,SUV
+Fiat Qubo,LCV
+Suzuki Ignis,SUV
+Ford Transit Custom,BUS
+Skoda Karoq,SUV
+Fiat Tipo,C
+Mitsubishi I-Miev,A
+Lada Niva,SUV
+Ford Ranger,T
+Nissan e-NV200,BUS
+Cadillac Ats,D
+Volkswagen Arteon,E
+Toyota Avensis Verso,MPV
+Lexus UX,SUV
+BMW M5,E
+Mitsubishi Mirage,B
+Fiat Bravo,C
+Volkswagen T-Roc,SUV
+GMC Terrain,SUV
+Mazda 626,D
+Fiat Cinquecento,A
+Volkswagen E-Bora,C
+Skoda Spaceback,C
+Daihatsu Terios,SUV
+Mazda 323,C
+Seat Exeo,D
+Peugeot Boxer,BUS
+Buick Envision,SUV
+Ikco Samand,C
+Great Wall Hover,SUV
+Ford F-150,T
+Byd F-3,C
+Audi SQ7,SUV
+Audi SQ5,SUV
+Volkswagen Up,A
+Volkswagen Eos,C
+Jaguar I-Pace,SUV
+Ford Flex,SUV
+Dodge Charger,E
+Citroen Ds4,C
+Land Rover Range Rover Velar,SUV
+Dacia Solenza,B
+Toyota Сamry,E
+Ford Ranger,T
+Nissan Terrano,SUV
+Acura TSX,D
+Opel Mokka,SUV
+Peugeot 206+,B
+Dodge Avenger,D
+Citroen C2,B
+Cadillac Escalade,SUV
+Ford Ka,A
+Dacia Logan Mcv,LCV
+Honda Fit,B
+Peugeot Ion,A
+УАЗ 3163,SUV
+Citroen C-Zero,A
+Peugeot Bipper,LCV
+Infiniti EX,SUV
+Geely Emgrand X7,SUV
+Citroen Ds5,D
+Opel Agila,A
+Jaguar Xe,D
+Dacia Dokker,LCV
+Daewoo Gentra,C
+Toyota Scion,B
+Toyota Previa,MPV
+Suzuki Splash,A
+Mercedes-Benz EQC,SUV
+Citroen Xsara,C
+Nissan NV 200,BUS
+Volkswagen Scirocco,W
+Volkswagen Lupo,A
+Toyota Hilux,T
+KIA K7,E
+Богдан 2111,B
+ЗАЗ 1105,B
+Opel Ampera,C
+Toyota 4Runner,SUV
+Ravon R4,B
+Mazda Mx-30,SUV
+Mazda Tribute,SUV
+Daihatsu Cuore,A
+BMW M3,D
+Toyota Hilux,T
+Chevrolet Silverado,T
+Dodge Ram 1500,T
+Geely Emgrand EC7,C
+Geely Emgrand,D
+Audi A1,B
+Mercedes-Benz CL-Class,F
+Infiniti M,E
+Alfa Romeo 156,D
+Honda Odyssey,MPV
+Hyundai Genesis,E
+Great Wall Safe,SUV
+Ford Maverick,SUV
+Land Rover Defender,SUV
+Audi S4,D
+KIA Venga,MPV
+Peugeot 406,D
+Chery M11,C
+Audi Allroad,SUV
+Rover 75,D
+Mazda Mpv,MPV
+Volvo Xc40,SUV
+Chery Sqr7130S21,B
+Nissan March,B
+Fiat Ulysse,MPV
+Chrysler Pacifica,MPV
+ВАЗ / Lada 2190,B
+Dodge Nitro,SUV
+Chery Beat,SUV
+BMW 5 Series GT,E
+Suzuki Alto,A
+УАЗ 3151,SUV
+Mazda BT50,T
+Toyota Fortuner,SUV
+SAAB 9-5,E
+Chevrolet Rezzo,MPV
+Toyota Hiace,BUS
+Nissan Sylphy Ev,C
+Mitsubishi Pajero Pinin,SUV
+Chery Tiggo 4,SUV
+УАЗ 3909,SUV
+Skoda Felicia,B
+Haval H6,SUV
+Dodge Ram 1500,T
+Porsche Taycan,E
+Nissan Kubistar,LCV
+BMW 3 Series GT,D
+Audi RS Q8,SUV
+Cadillac CTS,E
+Bentley Continental,F
+Renault Lodgy,LCV
+Renault Latitude,E
+BMW iX,SUV
+Volkswagen ID.6,SUV
+Volkswagen Golf Alltrack,SUV
+KIA Stonic,SUV
+Hyundai Trajet,MPV
+GMC Acadia,SUV
+Ford Taurus,E
+BMW M2,W
+Weltmeister EX5,SUV
+Lifan 520,B
+Audi S5,D
+Seat Ateca,SUV
+Opel Tigra,W
+Mitsubishi Eclipse,W
+Honda Stream,MPV
+Toyota Aqua,B
+Smart Roadster,A
+Peugeot 1007,A
+Chrysler Town Country,MPV
+Nissan Sunny,C
+Infiniti QX56,SUV
+Geely Ck-2,B
+Ford B-Max,MPV
+Chevrolet Matiz,A
+BMW X2,SUV
+Toyota Proace,BUS
+Jaguar E-Pace,SUV
+Geely Jl7152,C
+Cadillac XT5,SUV
+Audi SQ8,SUV
+Alfa Romeo Mito,B
+Mazda Mx-5,W
+Jaguar S-Type,E
+Chrysler Sebring,D
+Nissan Pixo,A
+Maserati Ghibli,E
+Volkswagen Pointer,B
+Mazda Rx-8,W
+KIA Mohave,SUV
+KIA Sedona,MPV
+Dacia Super Nova,B
+Infiniti QX80,SUV
+Hyundai H200,BUS
+BMW M7,F
+Volvo S90,E
+Daewoo Lacetti,C
+Toyota Yaris Cross,SUV
+Toyota Tundra,SUV
+Dodge Ram Van,BUS
+Volkswagen E-Tharu,SUV
+Lexus RC,D
+Great Wall Voleex C30,B
+BMW M8,W
+Renault Velsatis,E
+BMW Z4,W
+Alfa Romeo Stelvio,SUV
+Subaru Justy,A
+Ssangyong Rodius,MPV
+Lada Granta,B
+Toyota Solara,E
+Hyundai Palisade,SUV
+Audi S8,F
+Alfa Romeo Giulia,C
+Nissan Armada,SUV
+Suzuki Kizashi,D
+Hyundai Venue,SUV
+Hyundai Grand Santa Fe,SUV
+Honda Legend,E
+Daihatsu Materia,A
+Citroen C4 Aircross,SUV
+BMW M4,W
+Honda Cr-Z,W
+Everus VE-1,SUV
+Citroen Ds3,B
+Chery E5,C
+Audi S6,E
+Volvo V90,E
+Lincoln Continental,E
+Alfa Romeo Giulietta,C
+Skoda Citigo,A
+Peugeot Rcz,W
+Hyundai Grand Starex,BUS
+Honda Elysion,MPV
+Citroen C1Sx,A
+Audi S3,C
+Volvo V40 CC,C
+MG 350,C
+Lincoln Nautilus,SUV
+Great Wall Haval H3,SUV
+Nissan Quest,MPV
+Lancia Ypsilon,B
+Lancia Delta,C
+KIA Sephia,C
+Chery Tiggo 7,SUV
+Chana Benni,A
+Cadillac SRX,SUV
+ВАЗ / Lada 2105,B
+Hyundai Creta,SUV
+Geely Maple,C
+Toyota Urban Cruiser,SUV
+Mercedes-Benz SLK-Class,W
+Land Rover,SUV
+Hyundai Veracruz,SUV
+Hyundai Ioniq 5,SUV
+Geely Emgrand 8,D
+Volvo C70,W
+Mercedes-Benz Metris,BUS
+Lada Largus,LCV
+KIA Morning,A
+Hyundai H1,BUS
+Chevrolet Traverse,SUV
+Volkswagen Amarok,SUV
+Toyota Celica,W
+Renault Samsung Qm3,SUV
+Renault Arkana,SUV
+Infiniti J,D
+Hyundai Azera,E
+Ford Connect,LCV
+Fiat Albea,B
+BMW X6 M,SUV
+Volkswagen ID.3,B
+Toyota Vellfire,MPV
+Audi S7,E
+ВАЗ / Lada 2123,SUV
+Toyota Alphard,MPV
+MG 6,C
+Mercedes-Benz Amg Gt,W
+Hyundai Ix20,MPV
+Hyundai Encino,SUV
+Fiat Sedici,SUV
+Daewoo Kalos,B
+BMW iX3,SUV
+Hummer H3,SUV
+Honda Passport,SUV
+Honda City,B
+Dadi Shuttle,SUV
+Citroen C5 Aircross,SUV
+Citroen C3 Aircross,SUV
+Porsche 911,W
+Peugeot Rifter,LCV
+Jaguar Xj,E
+Chery Tiggo 3,SUV
+Maserati Levante,SUV
+Jac J5,C
+Hyundai Tiburon,W
+Chery Jetour X70,SUV
+Skoda Kamiq,SUV
+Seat Mii,A
+Honda X-Nv,SUV
+Audi e-tron Sportback,SUV
+Renault Samsung Sm3,C
+Porsche Cayman,W
+KIA Shuma,C
+Hyundai Galloper,B
+Opel Crossland,SUV
+Mitsubishi Rvr,SUV
+Mercedes-Benz EQS,F
+KIA Rio X,SUV
+Jeep Commander,SUV
+HONDA VE-1,SUV
+Toyota Matrix,C
+Chevrolet Suburban,SUV
+Alfa Romeo GT,W
+ВАЗ / Lada 2131,SUV
+Volvo V90 CC,E
+Subaru Ascent,SUV
+Mercedes-Benz SL-Class,W
+Mercedes-Benz Maybach GLS,SUV
+KIA Opirus,E
+Geely Fc Mr-7180,C
+Ford Mustang Mach-E,SUV
+Chevrolet Tracker,SUV
+Buick Lacrosse,E
+Toyota Yaris Verso,MPV
+Scion Fr-S,W
+Maserati Quattroporte,F
+Lifan 320,A
+Lancia Phedra,MPV
+Byd Yuan,SUV
+Buick Enclave,SUV
+Subaru Brz,W
+Mercedes-Benz Maybach S,F
+Lincoln Navigator,SUV
+KIA Pregio,BUS
+Hyundai Solaris,B
+Hummer H2,SUV
+Geely Gc6,C
+Chevrolet Impala,E
+Byd S-6,SUV
+Zx Landmark,SUV
+Toyota Estima,MPV
+Nissan NV 400,BUS
+Fiat Idea,MPV
+Citroen C3 Pluriel,B
+Chevrolet Express,BUS
+Bentley Bentayga,SUV
+Suzuki Wagon R,A
+Peugeot 408,D
+Hyundai Maxcruze,SUV
+Geely LC,A
+Ford Expedition,SUV
+Fiat Siena,B
+Audi Q2L e-tron,SUV
+Volvo V60 CC,D
+Volkswagen Kombi,BUS
+Scion Tc,W
+Jac S2,SUV
+Hyundai Atos,A
+Geely Gx2,SUV
+Chery Eq1,A
+Cadillac XTS,F
+ВАЗ / Lada 2108,B
+Nissan Pick-Up,T
+Opel Grandland X,SUV
+Lifan X60,SUV
+Great Wall Haval M4,SUV
+Ford Territory EV,SUV
+Ford Puma,W
+Fiat Seicento,A
+Faw X 40,SUV
+Chevrolet Blazer,SUV
+Nissan King Cab,T
+Mercedes-Benz X-Class,T
+Renault Samsung Sm6,D
+Renault Samsung Sm5,E
+Renault City K-ZE,SUV
+Peugeot Partner Tepee,LCV
+MG 3,B
+Lancia Musa,MPV
+Audi RS6,E
+Volkswagen Cross Polo,B
+Peugeot 108,A
+KIA Stinger,D
+Daewoo Klan,C
+Audi Q2,SUV
+Toyota Vitz,B
+Ssangyong Actyon Sports,T
+Porsche Boxster,W
+Nissan Np 300,T
+MG 550,E
+Mercedes-Benz GLB-Class,SUV
+Lifan 620,C
+Jac Ievs4,SUV
+Ssangyong Tivoli,SUV
+Samsung Sm 5,E
+Peugeot 4008,SUV
+Nissan 350Z,W
+Chevrolet HHR,SUV
+Chery Tiggo 7 Pro,SUV
+Audi RS5,W
+Volkswagen Golf R,C
+Seat Arona,SUV
+Neta U,SUV
+Daewoo Leganza,D
+Chevrolet Corvette,W
+Audi RS3,C
+Ssangyong Actyon Sports,T
+Volkswagen T-Cross,SUV
+Renault Samsung Qm6,SUV
+Renault Express,MPV
+Nissan Pick-Up,T
+Mercedes-Benz CLC-Class,C
+Mazda Demio,MPV
+KIA Seltos,SUV
+Ds 3 Crossback,SUV
+Chevrolet Tahoe,SUV
+Cadillac XT4,SUV
+BYD Song EV Plus,SUV
+Audi e-tron GT,W
+ВАЗ / Lada 1111,A
+Jeep Gladiator,T
+Nissan NP 300,T
+Subaru Wrx,C
+Nissan Cube,MPV
+Hyundai Lafesta,C
+Honda Element,SUV
+Great Wall Wingle,T
+Chery Tiggo 8,SUV
+BMW 8 Series,W
+Rover 45,C
+Mitsubishi Nativa,SUV
+Mitsubishi L 400,BUS
+MG 5,C
+Honda eNS1,SUV
+Great Wall Voleex,C
+Fiat Talento,BUS
+Dodge Sprinter,BUS
+Chery Flagcloud,C
+Cadillac Bls,D
+Byd F-0,A
+BMW M6,SUV
+Alfa Romeo Brera,W
+Great Wall Wingle,T
+FIAT FULLBACK,T
+Dadi Shuttle,T
+Volkswagen Touareg 7L,SUV
+Renault Fct,LCV
+Pontiac Vibe,SUV
+Nissan Interstar,BUS
+Mitsubishi Space Wagon,MPV
+Landwind X6,SUV
+Jac S3,SUV
+Iveco Daily,BUS
+Great Wall Haval H5,SUV
+Fiat Brava,C
+Ds 7 Crossback,SUV
+Chery Tiggo 5,SUV
+Mazda B 2500,T
+Toyota Tacoma,T
+PEUGEOT PICK UP,T
+Nissan Xterra,SUV
+MG HS,SUV
+Lincoln Corsair,SUV
+Lincoln Aviator,SUV
+Jaguar F-Type,W
+Fiat Palio,B
+CHERY EQ,A
+Cadillac CT6,F
+Audi RS e-tron GT,E
+Isuzu D-Max,T
+Great Wall Deer,T
+Toyota IZOA,SUV
+Samsung Sm 3,C
+Peugeot 306,C
+Lincoln Mks,F
+KIA K3,C
+Jeep Liberty,SUV
+Haval Jolion,SUV
+GMC Hummer,SUV
+Citroen Saxo,B
+Chery Cross Eastar,SUV
+Byd F-6,D
+BMW Active Hybrid 3,D
+Audi RS7,E
+Dadi Smoothing,T
+FORD F-350,T
+Toyota Iq,A
+Renault Twizy,A
+Ravon Gentra,C
+Mercedes-Benz EQV,MPV
+Land Rover Range Rover Evoque Pure,SUV
+Lamborghini Urus,SUV
+KIA Telluride,SUV
+Great Wall Pegasus,SUV
+Great Wall M4,SUV
+GMC Savana,BUS
+Geely Ce-2,B
+Dadi Smoothing,T
+Citroen Space Tourer,MPV
+Citroen C6,E
+Byd Tang,SUV
+BYD E-2,SUV
+AUDI A3 E-TRON,C
+Alfa Romeo 166,E
+Dodge Dakota,T
+Dadi Bliss,T
+Vauxhall Vivaro,BUS
+Toyota Tacoma,T
+Toyota Proace Verso,MPV
+Toyota Aurion,D
+Soueast Lioncel,C
+Seat Arosa,A
+Scion Im,C
+POLESTAR 2,C
+Nissan Vanette,BUS
+Lincoln Mkt,SUV
+Lada Vesta,B
+Lada 2110,B
+Hyundai Staria,MPV
+Hyundai Starex,BUS
+Great Wall Deer,T
+Chevrolet Menlo,SUV
+Chevrolet Cobalt,C
+Audi Q7 e-tron,SUV
+Acura ZDX,SUV
+Ram 2500,T
+Opel Campo,T
+Subaru Wrx Sti,C
+Renault Grand Espace,MPV
+Peugeot 806,F
+Nissan Frontier,T
+Nissan 370Z,W
+MUSTANG YEMA,SUV
+Lexus HS,D
+Lada 2111,B
+Jaguar Xjl,F
+Jac J2,A
+Isuzu Trooper,SUV
+Groz Shuttle,SUV
+Daihatsu Trevis,A
+Daewoo Tacuma,MPV
+Daewoo Evanda,D
+Citroen C2V,B
+Chevrolet Trailblazer,SUV
+Chery Karry,LCV
+Peugeot Traveller,MPV
+Nissan Pulsar,C
+Nissan NV 300,BUS
+Nissan Cefiro,E
+MG ZS,SUV
+Lancia Voyager,MPV
+Isuzu D-Max,T
+Haval H2,SUV
+Nissan Frontier,T
+GMC Canyon,T
+CHEVROLET AVALANCHE,T
+Subaru Baja,T
+ISUZU TFS,T
+GMC Sierra,T
+Ssangyong Musso,T
+TOYOTA T 100,T
+TATA Xenon,T
+Volkswagen Routan,MPV
+Suzuki Celerio,A
+Subaru Trezia,MPV
+Skoda Scala,C
+Skoda Enyaq,SUV
+Rolls-Royce Cullinan,SUV
+Renault Samsung Qm5,SUV
+Lada 2171,B
+Lada 2114,B
+KIA Xceed,SUV
+Ford Fiesta St,B
+Citroen Evasion,MPV
+Byd Han,E
+Bentley Flying Spur,F
+Abarth 500,A
