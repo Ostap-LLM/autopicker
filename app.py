@@ -1,9 +1,13 @@
 import streamlit as st
 import pandas as pd
-from openai import OpenAI
 
-# 🔑 Insert your OpenAI token below for local testing:
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+import os
+from openai import OpenAI
+from dotenv import load_dotenv
+
+load_dotenv()
+api_key = os.getenv("OPENAI_API_KEY")
+client = OpenAI(api_key=api_key)
 
 # Load CSV files
 prop = pd.read_csv("propositions.csv")
